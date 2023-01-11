@@ -1,4 +1,4 @@
-# Advanced Network Monitoring Course
+# 30 Day Security Analyst Challenge
 
-- [ ] Module 01: Monitoring Network Activity
+- [ ] Day 01: Network Forensics and Packet Analysis.
 
